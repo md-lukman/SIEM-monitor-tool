@@ -1,4 +1,4 @@
-# SIEM Monitor Tool
+# SIEM(Security Information and Event Management) Monitor Tool
 
 ![SIEM](img/soc.png)
 
